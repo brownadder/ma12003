@@ -2,7 +2,7 @@
 # Add code directory to path to pick up model solutions
 import sys
 import os
-sys.path.insert(0,os.path.expanduser('~')+"/ma12003.git/.code/")
+sys.path.insert(0,os.path.expanduser('~')+"/ma12003/.code/")
 
 # Make pytest available
 import pytest
