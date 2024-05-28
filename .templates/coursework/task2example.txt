@@ -1,0 +1,16 @@
+This is an example to demonstrate Task 2.
+
+BOB.
+Hi Alice, do you still have the coin that I gave you?
+
+Alice notices that Eve has just entered the room
+
+ALICE.
+No, I gave it to Eve. 
+Eve, do you have the coin I gave you?
+
+EVE. 
+Possibly.
+But if I did, I would not return it to you.
+
+An uncomfortable silence ensues.
